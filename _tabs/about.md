@@ -14,12 +14,12 @@ order: 4
 
 ---
 
-### 🔍 Main Categories
+### 🔍 **Main Categories**
 - **전공 공부** : 수학적 기초 이론 및 전공 과목 개념 정리
 - **논문 리뷰** : 관심 분야 논문 분석 및 핵심 아이디어 요약
 
 ---
 
-### 💬 Contact
+### 💬 **Contact**
 - **GitHub** : [github.com/jiyun579](https://github.com/jiyun579)
 - **Mail** : [jyseok579@gmail.com](mailto:jyseok579@gmail.com)
